@@ -1,4 +1,6 @@
-# todo_flask
+# TODO Api based on flask and postgres
+
+[![Build Status](https://github.com/JoseRodrigues443/todo-flask/actions/workflows/ci.yaml/badge.svg)](https://github.com/JoseRodrigues443/todo-flask/actions/workflows/ci.yaml)
 
 TODO api using flask and postgres
 
