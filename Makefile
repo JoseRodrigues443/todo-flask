@@ -3,3 +3,5 @@
 env:
 	source py_env/bin/activate
 
+install:
+	pipenv install

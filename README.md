@@ -1,6 +1,7 @@
 # TODO Api based on flask and postgres
 
 [![Build Status](https://github.com/JoseRodrigues443/todo-flask/actions/workflows/ci.yaml/badge.svg)](https://github.com/JoseRodrigues443/todo-flask/actions/workflows/ci.yaml)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/JoseRodrigues443/todo-flask)
 
 TODO api using flask and postgres
 
